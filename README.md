@@ -2,7 +2,7 @@
 
 
 **Im a full stack developer, Mechatronic engineer from Mexico**
-**Actualy i have 27 years old I studied  Mechatronic engineer and now i have graduated from soyHenry bootcamp**
+**Actualy i have 27 years old I studied  Mechatronic engineer and now i have graduated from soyHenry bootcamp looking to enter the tech world as a full stack developer.**
 
 
 # Technologies
